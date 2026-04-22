@@ -5,7 +5,7 @@ Financial analysis project focused on revenue, profit, and performance tracking
 using Python, SQL, and Excel to uncover insights and support business decision-making.
 
 ## 📈 Dashboard Preview
-[financial_data_clean_excel.pdf](https://github.com/user-attachments/files/26982439/financial_data_clean_excel.pdf)
+<img width="1016" height="545" alt="Screenshot 2026-04-22 221141" src="https://github.com/user-attachments/assets/0fe2cc7b-c408-496c-81c1-dd95475f7123" />
 
 
 ## 📊 Key Insights
@@ -29,10 +29,10 @@ using Python, SQL, and Excel to uncover insights and support business decision-m
 - Matplotlib visualizations
 
 ## 📁 Project Structure
-[financial_data_clean_sql.sql](https://github.com/user-attachments/files/26982481/financial_data_clean_sql.sql)
-[financial_data_clean-code.ipynb](https://github.com/user-attachments/files/26982501/financial_data_clean-code.ipynb)
-[financial_data_clean.xlsx](https://github.com/user-attachments/files/26982510/financial_data_clean.xlsx)
-[financial_data.csv](https://github.com/user-attachments/files/26982537/financial_data.csv)
+[financial_data_clean_sql.sql](https://github.com/user-attachments/files/26982481/financial_data_clean_sql.sql)-
+[financial_data_clean-code.ipynb](https://github.com/user-attachments/files/26982501/financial_data_clean-code.ipynb)-
+[financial_data_clean.xlsx](https://github.com/user-attachments/files/26982510/financial_data_clean.xlsx)-
+[financial_data.csv](https://github.com/user-attachments/files/26982537/financial_data.csv)-
 
 
 ## 🚀 How to Run
